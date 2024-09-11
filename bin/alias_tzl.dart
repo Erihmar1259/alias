@@ -1,6 +1,5 @@
 import 'dart:io';
 
-import 'package:alias/alias.dart' as alias;
 
 void main(List<String> arguments) {
   if (arguments.isEmpty) {

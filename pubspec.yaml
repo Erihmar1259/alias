@@ -1,7 +1,7 @@
-name: alias
-description: A sample command-line application.
-version: 1.0.0
-repository: https://github.com/Erihmar1259/
+name: alias_tzl
+description: A command-line tool for simplifying Flutter commands with aliases.
+version: 1.0.1
+repository: https://github.com/Erihmar1259/alias
 
 environment:
   sdk: ^3.1.5
@@ -10,7 +10,7 @@ license: MIT
 dependencies:
   # path: ^1.8.0
 executables:
-  alias: alias
+  alias_tzl: alias_tzl
 dev_dependencies:
   lints: ^2.0.0
   test: ^1.21.0
