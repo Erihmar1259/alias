@@ -1,6 +1,6 @@
 name: alias_tzl
 description: A command-line tool for simplifying Flutter commands with aliases.
-version: 1.0.1
+version: 1.1.2
 repository: https://github.com/Erihmar1259/alias
 
 environment:
